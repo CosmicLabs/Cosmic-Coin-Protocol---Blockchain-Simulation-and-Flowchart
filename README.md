@@ -11,8 +11,8 @@ Validator-free blockchain with entropy burns & micro PoW/PoS, no hard cap. Block
 - Simulation: `cd simulation && streamlit run cosmic_chain_simulation.py`
 
 ## Deployed
-- Flowchart: [Your URL](https://cosmiclabs.github.io/cosmic-chain-protocol)
-- Simulation: [Your URL](https://cosmicchainsimulation.streamlit.app/)
+- Flowchart: FLOWCHARTS ](https://cosmiclabs.github.io/cosmic-chain-protocol)
+- Simulation: [BLOCKCHAIN SIMULATIONS ](https://cosmicchainsimulation.streamlit.app/)
 ## Contact
 genesis@cosmicycle.com
 
