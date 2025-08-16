@@ -1,0 +1,5 @@
+"homepage": "https://CosmicLabs.github.io/cosmic-chain-protocol",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
