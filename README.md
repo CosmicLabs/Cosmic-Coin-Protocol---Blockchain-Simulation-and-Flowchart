@@ -12,7 +12,7 @@ Validator-free blockchain with entropy burns & micro PoW/PoS, no hard cap. Block
 
 ## Deployed
 - Flowchart: [TBD](https://CosmicLabs.github.io/cosmic-chain-protocol)
-- Simulation: [TBD](https://share.streamlit.io/CosmicLabs/cosmic-chain-protocol/simulation)
+- Simulation: (https://cosmicchainsimulation.streamlit.app/)
 
 ## Contact
 genesis@cosmicycle.com
