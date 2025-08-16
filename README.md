@@ -17,4 +17,4 @@ Validator-free blockchain with entropy burns & micro PoW/PoS, no hard cap. Block
 genesis@cosmicycle.com
 
 ## Credits
-[Your Name], Grok/xAI
+Cosmic Labs Team
